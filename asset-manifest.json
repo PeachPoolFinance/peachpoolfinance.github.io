@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.977a8089.chunk.css",
+    "main.js": "/static/js/main.73478796.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.a2e873e0.js",
+    "static/js/2.469fa8bc.chunk.js": "/static/js/2.469fa8bc.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.33c2c7338d9412899cad7761270d8dde.js": "/precache-manifest.33c2c7338d9412899cad7761270d8dde.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.469fa8bc.chunk.js.LICENSE.txt": "/static/js/2.469fa8bc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/BadUnicorn-Regular.ed6ef546.ttf",
+    "static/media/close.f90ddea5.svg": "/static/media/close.f90ddea5.svg",
+    "static/media/copy.36e2112a.svg": "/static/media/copy.36e2112a.svg",
+    "static/media/github.ca2a682f.svg": "/static/media/github.ca2a682f.svg",
+    "static/media/hamburger.99a7fc31.svg": "/static/media/hamburger.99a7fc31.svg",
+    "static/media/link.3473cffc.svg": "/static/media/link.3473cffc.svg",
+    "static/media/medium.09c838e1.svg": "/static/media/medium.09c838e1.svg",
+    "static/media/peachpool-logo-jumbotron.png": "/static/media/peachpool-logo-jumbotron.455f276d.png",
+    "static/media/telegram.43af099a.svg": "/static/media/telegram.43af099a.svg",
+    "static/media/twitter.f9ab5008.svg": "/static/media/twitter.f9ab5008.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2e873e0.js",
+    "static/js/2.469fa8bc.chunk.js",
+    "static/css/main.977a8089.chunk.css",
+    "static/js/main.73478796.chunk.js"
+  ]
+}
